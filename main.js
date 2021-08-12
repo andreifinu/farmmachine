@@ -7,7 +7,7 @@ var seedName = 'wheat_seeds';
 var harvestName = 'wheat';
 
 const bot = mineflayer.createBot({
-	host: "localhost",
+	host: "5.9.8.124:12306",
 	username: "FarmMachine",
 	//viewDistance: "tiny",
 });
